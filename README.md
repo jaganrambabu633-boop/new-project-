@@ -21,7 +21,7 @@
     </style>
 </head>
 <body>
-    <h1>🚀 Deployed via Jenkins Pipeline</h1>
+    <h1>🚀 my new project on devops</h1>
     <p>This page was checked out from GitHub and deployed to EC2 automatically.</p>
 </body>
 </html>
